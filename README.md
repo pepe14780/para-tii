@@ -75,8 +75,6 @@
         ★Y como es tus cumpleños te cumplire un deseo cualquiera jsjs :D <br>
         bueno cariño desirte que si esto lo habres en la mañana que nos veremos en la escuela va, <br>
         si no puedres abrirlo no te preocupes va pero ya veras que paso :) <br>
-        y tambien quiero decirte <br>
-        <a href="teamo.html#">Presiona aquí ❤️</a>
         
   </p>
 
